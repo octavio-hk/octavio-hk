@@ -23,4 +23,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+![Snake animation](https://github.com/octavio-hk/octavio-hk/blob/output/github-contribution-grid-snake.svg)
+
   
