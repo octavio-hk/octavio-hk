@@ -9,4 +9,4 @@
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=octavio-hk&show_icons=true&theme=dark&include_all_comits=false&count_private=true"> 
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octavio-hk&layout=compact&langs_count=16&theme=dark">
   </div>
-![Snake animation](https://github.com/octavio-hk/octavio-hk/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/octavio-hk/octavio-hk/blob/output/github-contribution-grid-snake-dark.svg)
